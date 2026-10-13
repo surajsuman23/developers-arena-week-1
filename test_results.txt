@@ -1,0 +1,59 @@
+Week 1 execution checks — 13 October 2026
+Python: Python 3.14.5
+
+PASS: practice/hello_world.py
+Hello World!
+
+PASS: practice/basics.py
+Name: Alex
+Age: 21
+City: Delhi
+Learning Python: True
+Addition: 16
+Subtraction: 8
+Multiplication: 48
+Division: 3.0
+Hello, Alex!
+Name in uppercase: ALEX
+Favorite foods: ['Rice', 'Dosa', 'Dal']
+First food: Rice
+Second food: Dosa
+
+PASS: practice/bio_data.py
+Name: Age: City: 
+--- My Bio-data ---
+Name: Alex
+Age: 21
+City: Delhi
+
+PASS: practice/step_02_input.py
+What is your name? How old are you? What is your favorite hobby? Answers: Alex 21 Coding
+
+PASS: practice/step_03_welcome.py
+What is your name? How old are you? What is your favorite hobby? 
+Welcome, Alex!
+You are 21 years old and love Coding.
+
+PASS: personal_intro.py
+Let's get to know you!
+What is your name? How old are you? What is your favorite hobby? What is your favorite food? 
+🎉 Welcome, Alex! 🎉
+You are 21 years old and love Coding.
+Your favorite food is Rice.
+It's great to meet you. Enjoy your Python learning journey!
+
+PASS: personal_intro.py
+Let's get to know you!
+What is your name? How old are you? What is your favorite hobby? What is your favorite food? 
+🎉 Welcome, Alex Lee! 🎉
+You are 22 years old and love Playing cricket.
+Your favorite food is Fried rice.
+It's great to meet you. Enjoy your Python learning journey!
+
+PASS: personal_intro.py
+Let's get to know you!
+What is your name? How old are you? What is your favorite hobby? What is your favorite food? 
+🎉 Welcome, Alex! 🎉
+You are 21 years old and love Coding.
+Your favorite food is Rice.
+It's great to meet you. Enjoy your Python learning journey!

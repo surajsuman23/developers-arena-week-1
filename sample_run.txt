@@ -1,0 +1,10 @@
+Let's get to know you!
+What is your name? Alex
+How old are you? 21
+What is your favorite hobby? Coding
+What is your favorite food? Rice
+
+🎉 Welcome, Alex! 🎉
+You are 21 years old and love Coding.
+Your favorite food is Rice.
+It's great to meet you. Enjoy your Python learning journey!
